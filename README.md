@@ -1,0 +1,1 @@
+GitHub does not allow uploading or commiting a file larger than 25 MB. Unfortunately, our traffic collision data is more than that, so we chose to upload a zipped version of it in the /readData folder. 
